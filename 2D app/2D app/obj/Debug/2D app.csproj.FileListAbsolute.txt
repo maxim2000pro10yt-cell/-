@@ -1,0 +1,11 @@
+C:\Users\Null\source\repos\2D app\2D app\bin\Debug\2D app.exe.config
+C:\Users\Null\source\repos\2D app\2D app\bin\Debug\2D app.exe
+C:\Users\Null\source\repos\2D app\2D app\bin\Debug\2D app.pdb
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\2D app.csproj.AssemblyReference.cache
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\_2D_app.Properties.Resources.resources
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\2D app.csproj.GenerateResource.cache
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\2D app.csproj.CoreCompileInputs.cache
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\2D app.exe
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\2D app.pdb
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\2D app.exe.config
+C:\Users\Null\source\repos\2D app\2D app\obj\Debug\_2D_app.Form1.resources
